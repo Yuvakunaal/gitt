@@ -1,2 +1,2 @@
 print("hi prends !!!")
-a = 11111
+a = 1
